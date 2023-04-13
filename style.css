@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  padding: 99px;
+  margin: 88px;
+  color: green;
+  
+}
+body {
+  text-align: center;
+  background-color: pink;
+  border: solid 5px;
+  
+}
